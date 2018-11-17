@@ -1925,4 +1925,4 @@ client.user.setAvatar(argresult);
 
                                 
 
-client.login(process.env.BOT_TOKEN);
+client.login("NTEyNTk0MTgwMjkyMzQ1ODU2.DtIyog.mjAwbDEQX_mk7avmM4LqHUTFNxI");
